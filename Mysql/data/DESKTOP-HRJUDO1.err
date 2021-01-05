@@ -1,0 +1,135 @@
+2020-12-03T10:07:33.908026Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-03T10:07:33.908887Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-03T10:07:33.908894Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-03T10:07:33.908910Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-03T10:07:33.909238Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 7728 ...
+2020-12-03T10:12:41.093794Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-03T10:12:41.093840Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-03T10:12:41.093843Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-03T10:12:41.093854Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-03T10:12:41.094122Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 12836 ...
+2020-12-03T14:26:44.218594Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-03T14:26:44.218641Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-03T14:26:44.218644Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-03T14:26:44.218656Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-03T14:26:44.218907Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 10844 ...
+2020-12-07T02:05:58.250664Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-07T02:05:58.250713Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-07T02:05:58.250717Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-07T02:05:58.250729Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-07T02:05:58.251000Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 14260 ...
+2020-12-07T02:06:35.156007Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-07T02:06:35.156054Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-07T02:06:35.156057Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-07T02:06:35.156069Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-07T02:06:35.156327Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 14412 ...
+2020-12-07T02:07:47.833829Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-07T02:07:47.833886Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-07T02:07:47.833890Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-07T02:07:47.833906Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-07T02:07:47.834175Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 2356 ...
+2020-12-07T02:10:18.384304Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-07T02:10:18.384358Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-07T02:10:18.384361Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-07T02:10:18.384374Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-07T02:10:18.384598Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 10172 ...
+2020-12-07T04:19:21.804620Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-07T04:19:21.804683Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-07T04:19:21.804688Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-07T04:19:21.804706Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-07T04:19:21.805019Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 7252 ...
+2020-12-09T07:24:01.587616Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T07:24:01.589390Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T07:24:01.589399Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T07:24:01.589414Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T07:24:01.591262Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 3876 ...
+2020-12-09T08:02:29.321613Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T08:02:29.321662Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T08:02:29.321665Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T08:02:29.321677Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T08:02:29.321930Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 9320 ...
+2020-12-09T08:03:02.276878Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T08:03:02.276926Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T08:03:02.276929Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T08:03:02.276941Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T08:03:02.277183Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 10596 ...
+2020-12-09T08:03:22.475173Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T08:03:22.475224Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T08:03:22.475228Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T08:03:22.475242Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T08:03:22.475642Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 11268 ...
+2020-12-09T08:48:28.001618Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T08:48:28.001670Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T08:48:28.001673Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T08:48:28.001686Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T08:48:28.001976Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 8736 ...
+2020-12-09T08:52:25.269953Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T08:52:25.270001Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T08:52:25.270004Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T08:52:25.270018Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T08:52:25.270331Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 11880 ...
+2020-12-09T09:22:39.533658Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T09:22:39.533708Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T09:22:39.533711Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T09:22:39.533724Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T09:22:39.534053Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 1220 ...
+2020-12-09T09:23:11.377708Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T09:23:11.377762Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T09:23:11.377765Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T09:23:11.377779Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T09:23:11.378096Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 17232 ...
+2020-12-09T17:43:42.053499Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-09T17:43:42.054836Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-09T17:43:42.054848Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-09T17:43:42.054866Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-09T17:43:42.056898Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 4916 ...
+2020-12-10T08:55:56.312357Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-10T08:55:56.312410Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-10T08:55:56.312413Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-10T08:55:56.312430Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-10T08:55:56.312805Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 9028 ...
+2020-12-11T08:13:14.568857Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-11T08:13:14.568904Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-11T08:13:14.568907Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-11T08:13:14.568920Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-11T08:13:14.569213Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 13752 ...
+2020-12-12T07:52:42.419537Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-12T07:52:42.419599Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-12T07:52:42.419603Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-12T07:52:42.419619Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-12T07:52:42.419942Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 11668 ...
+2020-12-12T08:33:43.312757Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-12T08:33:43.312806Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-12T08:33:43.312809Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-12T08:33:43.312821Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-12T08:33:43.313056Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 13100 ...
+2020-12-14T02:49:50.620085Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-14T02:49:50.621846Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-14T02:49:50.621859Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-14T02:49:50.621877Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-14T02:49:50.623697Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 13532 ...
+2020-12-27T17:35:43.837092Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-27T17:35:43.838864Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-27T17:35:43.838874Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-27T17:35:43.838890Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-27T17:35:43.840506Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 6328 ...
+2020-12-29T04:41:04.479500Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-29T04:41:04.481453Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-29T04:41:04.481462Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-29T04:41:04.481478Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-29T04:41:04.483062Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 68 ...
+2020-12-29T08:43:56.701600Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-29T08:43:56.701655Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-29T08:43:56.701659Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-29T08:43:56.701674Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-29T08:43:56.702256Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 8208 ...
+2020-12-30T04:49:36.346064Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-30T04:49:36.347395Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-30T04:49:36.347406Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2020-12-30T04:49:36.347422Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-30T04:49:36.349120Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 11352 ...
+2021-01-05T02:42:16.761622Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-01-05T02:42:16.762889Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-01-05T02:42:16.762900Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2021-01-05T02:42:16.762918Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2021-01-05T02:42:16.764628Z 0 [Note] C:\Program Files\VertrigoServ\mysql\bin\v_mysqld.exe (mysqld 5.7.25) starting as process 11076 ...
